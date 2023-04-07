@@ -1,0 +1,152 @@
+.color-title {
+  background-color: #ABC9FF;
+  color: #fff;
+}
+
+.big-heading {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 4rem;
+  padding: 3% 15%;
+  padding-left: 150px;
+  padding-right: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5rem;
+  line-height: 4.5;
+  color: #fff;
+}
+
+.a {
+  color: #fff;
+  font-size: 5rem;
+  font-family: 'Kaushan Script', cursive;
+}
+
+#navbarNavDropdown {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 8.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 300px;
+  position: absolute;
+}
+
+#instruments {
+  background-color: #FCF8E8;
+  padding: 7% 15%;
+  z-index: 1;
+  position: relative;
+}
+
+.instrument-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+h2 {
+  font-family: 'Kaushan Script', cursive;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 3.5rem;
+}
+
+p {
+  font-family: 'Permanent Marker', cursive;
+  color: #94B49F;
+}
+
+.icon {
+  color: #9DD6DF;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #495C83;
+}
+
+#Moods {
+  background-color: #ABC9FF;
+  padding: 7% 15%
+}
+
+.Moods-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.icon2 {
+  color: #F7EDDB;
+  margin-bottom: 1rem;
+}
+
+.p-Moods {
+  color: #495C83;
+}
+
+.icon2:hover {
+  color: #495C83;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+  background-color: #FCF8E8;
+}
+
+.pricing-column {
+  padding: 7%;
+}
+
+.btn {
+  font-family: 'Kaushan Script', cursive;
+}
+
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+  }
+}
+
+#remark {
+  background-color: #ABC9FF;
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+  padding: 5% 17%;
+
+}
+#footer{
+  background-color: #FCF8E8;
+  text-align: center;
+  padding: 5% 17%;
+}
+.social-icon{
+  padding:2%;
+
+}
